@@ -1,0 +1,36 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    line-height: 1.6;
+  }
+  
+  .hero {
+    background: url('imagess/CARBG.png') no-repeat center center/cover;
+    padding: 120px 0;
+  }
+  
+  h2 {
+    font-weight: bold;
+  }
+  
+  footer {
+    margin-top: 40px;
+  }
+
+  ul {
+    padding-left: 20px;
+    font-size: 16px;
+    line-height: 1.6;
+  }
+  img {
+    max-height: 300px;
+    object-fit: cover;
+  }
+  
+  car-bazzar img {
+    max-height: 180px;
+    object-fit: cover;
+    border-radius: 10px;
+  }
+  
+  
+  
